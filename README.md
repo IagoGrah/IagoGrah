@@ -9,7 +9,7 @@
  <h4 align='center'>
  This is where I keep my innumerous unfinished game projects and ideas.
  
- The (few) finished ones are on itch.io.
+ The (few) finished ones are on [itch.io](https://hive-mind.itch.io).
  </h4>
  
  <p align='center'>
