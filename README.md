@@ -4,6 +4,7 @@
  
  <h2 align='center'>
  I'm a fullstack developer focused mainly on C# and Unity game development.
+ Currently studying React.js and Node.js.
  </h2>
  
  <h4 align='center'>
@@ -31,14 +32,6 @@
 
 <p align='center'>
  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoGrah&layout=compact&theme=dark" width="350"></a>
-</p>
-
-<p align='center'>
-<img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img alt=".NET" src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-<img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-<img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
-
 </p>
 
 <p align='center'>You're welcome to share any feedback on any of my repositories!</p>
